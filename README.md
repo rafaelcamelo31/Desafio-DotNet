@@ -33,9 +33,10 @@
 PostgreSQL : https://github.com/pthom/northwind_psql
 Sql Server: https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases
 
-Responsável técnico: Felipe Muniz.
-Analista de negócios: Rita Souza.
+#### Responsável técnico: ***Felipe Muniz***.
+#### Analista de negócios: ***Rita Souza***.
 
+***
 
-<img width="500" alt="GoodLuck" src="GoodLuck.jpg">
+<img width="300" alt="GoodLuck" src="GoodLuck.jpg">
 
