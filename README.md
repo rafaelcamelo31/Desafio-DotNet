@@ -37,5 +37,5 @@ Responsável técnico: Felipe Muniz.
 Analista de negócios: Rita Souza.
 
 
-<img width="500" alt="GoodLuck" src="https://pt.wikihow.com/Desejar-Boa-Sorte-a-Algu%C3%A9m#/Imagem:Wish-Someone-Good-Luck-Step-1-Version-2.jpg">
+<img width="500" alt="GoodLuck" src="GoodLuck.jpg">
 
