@@ -2,10 +2,9 @@
 ## Cliente: **Northwind**
 ## Esse projeto visa melhorar o processo de distribuição e atendimento dos pedidos atribuidos aos colaborabores. Para isso, nosso cliente solicitou o desenvolvimento de 3 API´s web para viabilizar essa mudança proposta.
 
-***
+
 ### Modelo relacional
 <img width="964" alt="Northwind ERD" src="https://blog.yugabyte.com/wp-content/uploads/2019/07/northwind_distributedsql-06.png">
-***
 
 ### Requisitos funcionais
 * Disponibilizar uma API para listagem de produtos por fornecedor ou categorias.
@@ -28,6 +27,7 @@
 * Fazer o **Fork** desse repositório em sua conta e solicitar o **PR** na finalização.
 
 ***
+
 PostgreSQL : https://github.com/pthom/northwind_psql
 Sql Server: https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/sql/linq/downloading-sample-databases
 
