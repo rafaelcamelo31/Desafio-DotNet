@@ -15,12 +15,12 @@
 
 ### Restrições técnicas.
 * Banco de dados a escolha do desenvolvedor, porém não será admitidos certos SGDBS.
- ** Aceitáveis: PostgreSQL, Sql Server, Oracle, CosmosDB, DynamoDB, MongoDB.
- ** Não aceitáveis: MySQL, SqLite, Firebird, Sysbase, Interbase.
+  * Aceitáveis: PostgreSQL, Sql Server, Oracle, CosmosDB, DynamoDB, MongoDB.
+  * Não aceitáveis: MySQL, SqLite, Firebird, Sysbase, Interbase.
 * Deverá utilizar de preferência os seguintes padrões de dados:
- ** Transaction scripts
- ** Active record
- ** Domain model
+  * Transaction scripts
+  * Active record
+  * Domain model
 * Será levado em consideração o padrão de projetos escolhido, porém não é item desclassificatório.
 
 ### Instruções gerais
