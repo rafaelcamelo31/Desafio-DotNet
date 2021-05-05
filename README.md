@@ -1,4 +1,4 @@
-# **Desafio .NET ITriad**
+# **Desafio .NET Instituo Triad**
 ## Cliente: **Northwind**
 ## Esse projeto visa melhorar o processo de distribuição e atendimento dos pedidos atribuidos aos colaborabores. Para isso, nosso cliente solicitou o desenvolvimento de 3 API´s web para viabilizar essa mudança proposta.
 
